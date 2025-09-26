@@ -38,8 +38,8 @@ const Contact = () => {
       icon: Mail,
       title: 'Email Us',
       description: 'Send us an email anytime',
-      contact: 'info@careerhub.com',
-      link: 'mailto:info@careerhub.com'
+      contact: 'poojalamse05@gmail.com',
+      link: 'mailto:poojalamse05@gmail.com'
     },
     {
       icon: Phone,
