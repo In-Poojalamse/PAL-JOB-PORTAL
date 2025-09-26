@@ -1,0 +1,11 @@
+# Node modules
+Frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+Frontend/.env
+backend/.env
+
+# Build outputs
+Frontend/dist/
+Frontend/.vite/
